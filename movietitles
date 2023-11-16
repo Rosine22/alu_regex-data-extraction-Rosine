@@ -7,5 +7,5 @@ def validate_movie_title(title):
     else:
         print(title, "is not a valid movie title.")
 # Example usage:
-movie_title = "Mission impossible (2023)"
+movie_title = "Young Sheldon (2017)"
 validate_movie_title(movie_title)
