@@ -3,7 +3,7 @@ import re
 
 pattern = r'^#[0-9a-fA-F]{6}$'
 
-z = input(" Please Enter a hex color codes\n")
+z = input(" Please Enter any hex color codes\n")
 
 
 if re.match(pattern, z):
